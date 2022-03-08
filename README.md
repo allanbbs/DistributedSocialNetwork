@@ -1,8 +1,8 @@
-# SDLE Project
+# Distributed Social Network
 
 SDLE Project for group T5G12.
 
-Group members:
+Authors
 
 1. Allan Sousa (up201800149@edu.fe.up.pt)
 2. Breno Pimentel (up201800170@edu.fe.up.pt)
@@ -47,12 +47,12 @@ cmake --build . --target proj2
 
 To start a bootstrap peer:
 ```
-./proj2 -l 127.0.0.1 3331 -b
+./program -l 127.0.0.1 3331 -b
 ```
 
 Join the network using the bootstrap endpoint:
 ```
-./proj2 -l 127.0.0.1 3332 -be 127.0.0.1 3331
+./program -l 127.0.0.1 3332 -be 127.0.0.1 3331
 ```
 
  - The video available [here](doc/sdle.mp4) also has the examples of usage to test functionality.
