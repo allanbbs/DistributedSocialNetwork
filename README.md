@@ -1,7 +1,5 @@
 # Distributed Social Network
 
-SDLE Project for group T5G12.
-
 Authors
 
 1. Allan Sousa (up201800149@edu.fe.up.pt)
