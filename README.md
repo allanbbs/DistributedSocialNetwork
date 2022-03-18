@@ -5,7 +5,6 @@ Authors
 1. Allan Sousa (up201800149@edu.fe.up.pt)
 2. Breno Pimentel (up201800170@edu.fe.up.pt)
 3. Diogo Gomes (up201806572@edu.fe.up.pt)
-4. Margarida Cosme (up201709304@edu.fe.up.pt)
 
 ### Prerequisites
 
